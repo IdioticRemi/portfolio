@@ -1,3 +1,9 @@
+# Portfolio
+
+This project is my personal portfolio project, feel free to check stuff out! ✨
+
+### Note: 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
